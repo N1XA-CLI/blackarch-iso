@@ -4966,6 +4966,7 @@ wpbullet -h ;
 wpforce -h ;
 wpforce-yertle -h ;
 wpintel ;
+wpprobe -h ;
 wpscan -h ;
 wpseku -h ;
 wpsik -h ;
