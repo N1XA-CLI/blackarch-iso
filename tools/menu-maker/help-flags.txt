@@ -3529,6 +3529,7 @@ reaver ;
 rebind ;
 rebind_dns -h ;
 recentfilecache-parser -h ;
+recollapse -h ;
 recomposer -h ;
 recon-cli ;
 recon-ng cd /usr/share/recon-ng ; ./recon-ng -h ;
